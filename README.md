@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Chamidu-Maduwantha
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning 
+- 🎓 University of Plymouth -UK
 - 📫 How to reach me chamidumaduwntha2001@gmail.com
 
 <!---
