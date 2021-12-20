@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chamidu-Maduwantha
+- 👋 Hi, I’m @Chamidu-Maduwantha {CeleXII} 
 - 👀 I’m interested in Programming
 - 🎮 Game devoloping 
 - 🌱 I’m currently learning 
