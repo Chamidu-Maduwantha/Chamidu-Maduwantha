@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" hight="100" src="https://64.media.tumblr.com/ca1426a2c6901950b769b23a4783f714/6579c6bf45b9eee7-44/s640x960/00f2998f7ffc89c4825e28838b8fc190d12bf0d5.gif">
+<img align="centre" alt="Coding" width="800" hight="200" src="https://64.media.tumblr.com/ca1426a2c6901950b769b23a4783f714/6579c6bf45b9eee7-44/s640x960/00f2998f7ffc89c4825e28838b8fc190d12bf0d5.gif">
 
 
 <h1 align="center">Hi 👋, I'm Chamidu Maduwantha</h1>
