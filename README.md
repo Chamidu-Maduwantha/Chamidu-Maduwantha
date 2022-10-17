@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" hight="50" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="center" alt="Coding" width="1000" hight="50" src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://debbie-sketch.tumblr.com/post/189692326554/last-commissions-of-the-year)">
 
 
 <h1 align="center">Hi 👋, I'm Chamidu Maduwantha</h1>
