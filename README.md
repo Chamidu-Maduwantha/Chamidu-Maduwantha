@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)](https://rishavchanda.io)
+<img align="center" alt="Coding" width="1000" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 <h1 align="center">Hi 👋, I'm Chamidu Maduwantha</h1>
