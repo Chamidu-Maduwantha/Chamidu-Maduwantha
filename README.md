@@ -1,5 +1,5 @@
 
-![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+![MasterHead](https://i.imgur.com/jkXxByw.gif)
 
 
 <h1 align="center">Hi 👋, I'm Chamidu Maduwantha</h1>
