@@ -9,6 +9,8 @@
 
 - 👀 I’m interested in **Programing.**
 
+- 🎮 Game/Web/android devoloping 
+
 - 🌱 I’m currently learning **.**
 
 - 🎓 University of Plymouth -UK **.**
