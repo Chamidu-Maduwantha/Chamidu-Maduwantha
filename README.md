@@ -1,4 +1,5 @@
-<img align="centre" alt="Coding" width="800" hight="200" src="https://64.media.tumblr.com/ca1426a2c6901950b769b23a4783f714/6579c6bf45b9eee7-44/s640x960/00f2998f7ffc89c4825e28838b8fc190d12bf0d5.gif">
+<img align="centre" alt="Coding" width="800" hight="200" src="[[https://64.media.tumblr.com/ca1426a2c6901950b769b23a4783f714/6579c6bf45b9eee7-44/s640x960/00f2998f7ffc89c4825e28838b8fc190d12bf0d5.gif](https://i0.wp.com/webcodeflow.com/wp-content/uploads/2021/04/Pixel-Banner.gif?fit=540%2C246&ssl=1)](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)">
+![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 
 <h1 align="center">Hi 👋, I'm Chamidu Maduwantha</h1>
