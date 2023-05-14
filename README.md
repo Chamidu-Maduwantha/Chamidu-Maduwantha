@@ -27,6 +27,6 @@
 
 ## 📜 Other:
 
-<img src="https://lanyard-profile-readme.vercel.app/api/629031362351071252">
+<img src="https://lanyard-profile-readme.vercel.app/api/602322166830202890">
 
 [![github-views](https://komarev.com/ghpvc/?username=chAmidu&color=brightgreen)](https://github.com/Chamidu-Maduwantha)
