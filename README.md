@@ -15,7 +15,7 @@
 
 - 🎓 University of Plymouth -UK **.**
 
-- 📫 How to reach me **chamidumaduwntha2001@gmail.com**
+- 📫 How to reach me **chamidumaduwntha@gmail.com**
 
 
 <p align="left">
